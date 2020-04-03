@@ -7,4 +7,3 @@ Find the latest Covid19 face shield model and more from GitGub or via http://www
 Use Rhino3D if you want to edit the model
 
 Cheers
-Yildirim
